@@ -1,5 +1,5 @@
 import React from "react";
-import PNavbar from "./Patients/PNavbar.jsx";
+import PNavbar from "./PNavbar.jsx";
 
 const ChatPage = () => {
     return (
