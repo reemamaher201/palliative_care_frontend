@@ -23,9 +23,12 @@ import ChatPage from "./components/Ministry/Chat.jsx";
 import AddMedicine from "./components/Ministry/AddMedicine.jsx";
 import Statistics from "./components/Ministry/Statistics.jsx";
 import ChatPage4 from "./components/Providers/Chat.jsx";
+import CaseManagement from "./components/Providers/CaseManagement.jsx";
+import AccountSettings from "./components/Providers/AccountSettings.jsx";
+import DrugInventory from "./components/Providers/DrugInventory.jsx";
 function App() {
     return (
-      <ChatPage4 />
+      <DrugInventory />
     );
 }
 
